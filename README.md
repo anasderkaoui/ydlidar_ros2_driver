@@ -64,7 +64,7 @@ ydlidar_ros2_driver depends on YDLidar-SDK library. If you have never installed 
     ```
     Note: After completing the previous operation, replug the LiDAR again.
 	
-## Configure LiDAR [paramters](params/ydlidar.yaml)
+## Configure LiDAR [paramters](params/ydlidar.yaml) (path to the configuration file [your_workspace]/src/ydlidar_ros2_driver/params/ydlidar.yaml)
 ```
 ydlidar_ros2_driver_node:
   ros__parameters:
